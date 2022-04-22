@@ -1,1 +1,1 @@
-# jzRepository
+# way of wade
