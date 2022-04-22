@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 鑫丶教主
 
 You can use the [editor on GitHub](https://github.com/XinJiaoZhu/xjz.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
