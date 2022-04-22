@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WOW教主</title>
-    <link>http://xjz.github.io/</link>
+    <link>https://xinjiaozhu.github.io/xjz.github.io/</link>
     <description>Recent content on WOW教主</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 21 Apr 2022 14:30:35 +0800</lastBuildDate>
     
-	<atom:link href="http://xjz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xinjiaozhu.github.io/xjz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://xjz.github.io/posts/first/</link>
+      <link>https://xinjiaozhu.github.io/xjz.github.io/posts/first/</link>
       <pubDate>Thu, 21 Apr 2022 14:30:35 +0800</pubDate>
       
-      <guid>http://xjz.github.io/posts/first/</guid>
+      <guid>https://xinjiaozhu.github.io/xjz.github.io/posts/first/</guid>
       <description></description>
     </item>
     
